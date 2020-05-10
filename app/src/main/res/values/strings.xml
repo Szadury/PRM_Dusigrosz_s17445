@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">PRM_Dusigrosz_s17445</string>
+    <string name="appTitle">Miser</string>
+    <string name="debtors_list_label">Debtors List</string>
+    <string name="debtSumLabel">Total sum of debts: </string>
+    <string name="debtSumCounter">Total sum of debts: %1$f</string>
+    <string name="addButton">add</string>
+    <string name="logoImage">logoImage</string>
+    <string name="enterDebtorInfoLabel">Enter information about debtor</string>
+    <string name="first_name_label">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="debt_label">Debt</string>
+    <string name="last_name_label">Last Name</string>
+    <string name="enter_first_name_label">Enter first name</string>
+    <string name="enter_last_name_label">Enter last name</string>
+    <string name="enter_debt_information">Enter his/her debt</string>
+    <string name="add_debtor_button">AddDebtorButton</string>
+    <string name="close_debtor_view_button">close debtor view</string>
+    <string name="debt_simulation_title">Debt Paying Simulation</string>
+    <string name="debt_information_label">Debt Information</string>
+    <string name="plnPerSecondText">Set PLN Per Second</string>
+    <string name="commisionHint">Commission for debt (%)</string>
+    <string name="simulationManagement">simulationManagement</string>
+    <string name="amountDebtLeftLabel">Amount of debt left</string>
+    <string name="debtLeftValue">0</string>
+    <string name="interestToPayLabel">Interests needed to be paid</string>
+    <string name="interestToPay">0</string>
+    <string name="simulateButtonLabel">Simulate</string>
+</resources>
